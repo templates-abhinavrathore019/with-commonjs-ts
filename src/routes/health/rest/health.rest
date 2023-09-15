@@ -1,0 +1,2 @@
+
+GET {{host}}/{{prefix}}/health HTTP/1.1
